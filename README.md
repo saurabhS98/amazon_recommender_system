@@ -1,1 +1,1 @@
-# amazon_recoomend_system
+# amazon_recommender_system
